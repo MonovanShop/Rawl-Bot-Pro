@@ -6,7 +6,9 @@ export async function before(m, {conn, isAdmin, isBotAdmin, isOwner, isROwner}) 
   const chat = global.db.data.chats[m.chat];
   const bot = global.db.data.settings[this.user.jid] || {};
   if (bot.antiPrivate && !isOwner && !isROwner) {
-    await m.reply(`*[❗] Hola @${m.sender.split`@`[0]}, Hola, te estás comunicando con PATOBOT, por favor no realices llamadas para evitar bloqueo. Cualquier duda o aclaración comunicarse con mi dueño. GRACIAS 🫰🏽*`, false, {mentions: [m.sender]});
+    await m.reply(`*[❗] Hola @${m.sender.split`@`[0]}, Hola, si necesitas algo habla con el dueño. 
+8991171507.
+Adios. 🫡*`, false, {mentions: [m.sender]});
     await this.updateBlockStatus(m.chat, 'block');
   }
   return !1;
