@@ -13,11 +13,11 @@ import { en, es, id, ar, pt } from "./lib/idiomas/total-idiomas.js"
 // [ES] > Agrega el número que será Bot y los que serán propietarios.
 global.owner = [
 ["5215625768269", 'Monkey Shop', true], //Capibot Premium
-["525625768269", 'Monkey Shop', true], //Nekotina bot
-["5215625060788"]]
+["5218991171507", 'Monkey Shop', true], //Nekotina bot
+["5218991171507"]]
 
-global.mods = ["5215625768269"]
-global.prems = ["5215625768269"]
+global.mods = ["5218991171507"]
+global.prems = ["5218991171507"]
 // • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • •
 
 // • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • •
@@ -112,9 +112,9 @@ global.moment = moment
 // [ES] > Agregate a ti, colaboradores o ayudates, aparecerá en el comando de lista de contactos.
 // [EN] > Adding yourself, collaborators or helpers will appear in the contact list command.
 global.official = [ // Agregate si eres Owner
-["5215625768269", 'Monkey Bot', 1], 
-["525625768269", 'Anthony', 1],  
-["5215615060788", 'Capibot', 1]]
+["5218991171507", 'Monkey Bot', 1], 
+["5218991171507", 'Anthony', 1],  
+["5218991171507", 'Capibot', 1]]
 
 global.mail = '' // Add email
 global.desc = '' // Add short description (20 caractres max)
@@ -122,8 +122,8 @@ global.desc2 = '' // Add long description (90 caractres max) (Este parámetro se
 global.country = '' // Add country, example: 🇪🇨
 // • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • •
 
-global.packname = "MONKEY BOY"
-global.author = "MONOVAN SHOP"
+global.packname = "SWEET BOT"
+global.author = "SWEET"
 
 // • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • •
 // [ES] > INFORMACIÓN DE VERSIONES DEL BOT, POR FAVOR 
@@ -131,7 +131,7 @@ global.author = "MONOVAN SHOP"
 // [EN] > BOT VERSION INFORMATION, PLEASE KEEP THIS UNCHANGED, WE STRIVE DAILY TO PROVIDE YOU WITH A BOT FOR THE COMMUNITY, BE GRATEFUL
 global.vs = "1.7.0"
 global.vsJB = "2.5 (Beta)"
-global.gt = "MONKEY"
+global.gt = "SWEET"
 
 // • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • • •
 
