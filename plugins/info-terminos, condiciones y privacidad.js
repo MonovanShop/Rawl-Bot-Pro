@@ -67,7 +67,7 @@ let username = conn.getName(who)
 //let user = global.db.data.users[m.sender]
 //user.registered = false
 
-let Terminos = `*_Toda la informacion que se mencione aqui no excluye a la Propietaria del Bot, y Propietarios Acredores al uso de Nekotina_*
+let Terminos = `*_Toda la informacion que se mencione aqui no excluye a la Propietaria del Bot, y Propietarios Acredores al uso de 𝑴𝑶𝑵𝑲𝑬𝒀*
 *_No Somos responsables del desconocimiento que tenga por parte de esta informacion._* 
 
 
@@ -78,9 +78,9 @@ _- Lo que realice con el BOT queda solo en Usted ya que en Numero(s) Oficial(es)
 
 _- Es posible que en Numero(s) Oficial(es) el Bot no este Activado las 24 Horas de los 7 dias de la Semana, eso no implica que no lo este o que Propietarios NO OFICIALES puedan Hacerlo._
 
-_- El chat anonimo del comando #start, valga la redundancia no mostrará ningun dato de los Usuarios por parte de 𝙉𝙀𝙆𝙊𝙏𝙄𝙉𝘼. Eso no implica que las personas que hagan uso de esta funcion puedan dar a conocer sus datos. en Numero(s) Oficial(es)._
+_- El chat anonimo del comando #start, valga la redundancia no mostrará ningun dato de los Usuarios por parte de 𝑴𝑶𝑵𝑲𝑬𝒀. Eso no implica que las personas que hagan uso de esta funcion puedan dar a conocer sus datos. en Numero(s) Oficial(es)._
 
-_- Los Datos que Obtenga 𝙉𝙀𝙆𝙊𝙏𝙄𝙉𝘼 en Cuentas Oficiales de Usuarios(as), Grupos y Ajustes del Mismo puede verse Reiniciado, Modificado, y/o Retificado con el fin de que el Bot este en optimas Condiciones para su Uso. (Usuarios(as) Pueden Pedir Compensacion Por Instagram o por el comando #Reporte. Debe de Presentar Pruebas)._
+_- Los Datos que Obtenga 𝑴𝑶𝑵𝑲𝑬𝒀 en Cuentas Oficiales de Usuarios(as), Grupos y Ajustes del Mismo puede verse Reiniciado, Modificado, y/o Retificado con el fin de que el Bot este en optimas Condiciones para su Uso. (Usuarios(as) Pueden Pedir Compensacion Por Instagram o por el comando #Reporte. Debe de Presentar Pruebas)._
 
 _- NO somos responsable si Hay alteraciones de este Bot no siendo Numero(s) Oficial(es) y tengan de uso un Repositorio de GitHub que no corresponda al Oficial, o que implementen Usuarios de Terceros integraciones que comprometan a los(as) Usuarios(as) al utilizar Versiones no Oficiales._
 
@@ -108,13 +108,13 @@ _- NO usar el Bot siendo Numero(s) Oficial(es) para llevar a cabo alguna accion 
 
 _- NO use el comando de SPAM repetidamente, ya que Provocar un Mal funcionamiento en el BOT, tampoco envie al BOT mensajes que puedan comprometer el Funcionamiento de la misma._
 
-_- Al hacer uso de ciertos comandos que tengan como objetivo socavar la incomodidad, intranquilidad, molestia u otro termino tajante, se tomarian las respectivas sanciones o llamados de alerta para prevalecer la integridad de los/las Usuarios(as) y funcionamiento de Nekotina._
+_- Al hacer uso de ciertos comandos que tengan como objetivo socavar la incomodidad, intranquilidad, molestia u otro termino tajante, se tomarian las respectivas sanciones o llamados de alerta para prevalecer la integridad de los/las Usuarios(as) y funcionamiento de 𝑴𝑶𝑵𝑲𝑬𝒀._
 
 *CUENTA OFICIAL DE ASISTENCIA - WHATSAPP*
 ~ _Solo en esta Cuenta Respondo si tiene Dudas, Preguntas o Necesita Ayuda sobre Nekotina, Tambien puede Comunicarse en Caso de Temas de Colaboracion_
 *${ig}*
 
-*~ Muchas Gracias Por tomarte el tiempo en informate sobre 𝙉𝙀𝙆𝙊𝙏𝙄𝙉𝘼*` 
+*~ Muchas Gracias Por tomarte el tiempo en informate sobre 𝑴𝑶𝑵𝑲𝑬𝒀*` 
 await conn.sendFile(m.chat, pp, 'gata.mp4', Terminos)
 /*.trim()
 conn.sendHydrated(m.chat, Terminos,  `${wm}\nEstamos de acuerdo en Hacer Colaboraciones con Personas Comprometidas, manteniendo el Respeto Puedes Contactar si ese es el caso a esta Cuenta Oficial | https://wa.me/5215625060788`, pp, 'https://wa.me/5215625060788', '饾檪饾櫀饾櫓饾櫀饾樈饾櫎饾櫓-饾檲饾樋', null, null, [

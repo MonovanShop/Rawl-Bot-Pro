@@ -100,7 +100,7 @@ let str = `╭━━━[ *𝙉𝙄𝙑𝙀𝙇 | 𝙇𝙀𝙑𝙀𝙇* ]━━�
 ┃ *FECHA:* *${new Date().toLocaleString('id-ID')}*
 ╰━━━〔 *𓃠 ${vs}* 〕━━━━━⬣
 
-*_Cuanto más interactúes con Nekotina, mayor será tu nivel!!_*
+*_𝗖𝘂𝗮𝗻𝘁𝗼 𝗺á𝘀 𝗶𝗻𝘁𝗲𝗿𝗮𝗰𝘁ú𝗲𝘀 𝗰𝗼𝗻 𝗠𝗼𝗻𝗸𝗲𝘆, 𝗺𝗮𝘆𝗼𝗿 𝘀𝗲𝗿á 𝘁𝘂 𝗻𝗶𝘃𝗲𝗹!!_*
 *_Actualiza tú rango con el comando ${usedPrefix}rol!!_*`.trim()
 try {
 const img = await levelup(teks, user.level)
