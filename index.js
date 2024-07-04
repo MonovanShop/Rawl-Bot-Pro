@@ -89,7 +89,7 @@ console.log(chalk.yellow(`╭${lineM}
 ┊${chalk.blueBright('┊')}${chalk.cyan(`💚 Nombre: ${packageJsonObj.name}`)}
 ┊${chalk.blueBright('┊')}${chalk.cyan(`𓃠 Versión: ${packageJsonObj.version}`)}
 ┊${chalk.blueBright('┊')}${chalk.cyan(`💜 Descripción: ${packageJsonObj.description}`)}
-┊${chalk.blueBright('┊')}${chalk.cyan(`😺 Project Author: Anthony Ventas`)}
+┊${chalk.blueBright('┊')}${chalk.cyan(`😺 Project Author: Monkey Ventas`)}
 ┊${chalk.blueBright('┊')}${chalk.blueBright('┅┅┅┅┅┅┅┅┅┅┅┅┅┅┅')} 
 ┊${chalk.blueBright('┊')}${chalk.yellow(`💜 Colaboradores:`)}
 ┊${chalk.blueBright('┊')}${chalk.yellow(`• Monovan`)}
