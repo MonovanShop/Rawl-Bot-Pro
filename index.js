@@ -26,7 +26,7 @@ say('Monkey\nBot', {
 font: 'chrome',
 align: 'center',
 gradient: ['red', 'magenta']})
-say(`Si eres el Monovan y estas leyendo esto, no te sorprendas ya sabemos que eres gay xD`, {
+say(`𝗕𝗢𝗧 𝗖𝗥𝗘𝗔𝗗𝗢 𝗫 𝗠𝗢𝗡𝗢𝗩𝗔𝗡 𝗦𝗛𝗢𝗣 𝗘𝗟 𝗠𝗘𝗝𝗢𝗥 𝗕𝗢𝗧 𝗗𝗘 𝗧𝗢𝗗𝗢 𝗪𝗣𝗣`, {
 font: 'console',
 align: 'center',
 gradient: ['red', 'magenta']})
